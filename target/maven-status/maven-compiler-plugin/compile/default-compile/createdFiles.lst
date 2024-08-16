@@ -1,0 +1,15 @@
+edu/school21/model/HeroDto.class
+edu/school21/config/ConnectionBD.class
+edu/school21/repository/HeroRepositoryImpl.class
+edu/school21/Program.class
+edu/school21/model/Helm.class
+edu/school21/view/IntroductionConsole.class
+edu/school21/controller/IntroductionController.class
+edu/school21/model/Weapon.class
+edu/school21/view/IntroductionGui.class
+edu/school21/repository/CrudRepository.class
+edu/school21/model/ChangerHp.class
+edu/school21/model/Armor.class
+edu/school21/model/Hero.class
+edu/school21/model/Entity.class
+edu/school21/service/HeroService.class

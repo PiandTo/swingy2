@@ -1,0 +1,11 @@
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/model/Weapon.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/config/ConnectionBD.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/repository/HeroRepositoryImpl.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/model/Armor.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/model/Hero.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/model/Entity.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/model/Helm.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/repository/CrudRepository.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/service/HeroService.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/Program.java
+/Users/mikhailmalev/Documents/School21/Swingy2/src/main/java/edu/school21/model/HeroDto.java
